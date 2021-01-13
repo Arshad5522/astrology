@@ -1,7 +1,29 @@
+html {
+    padding: 0;
+    overflow-x: hidden;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    overflow-x: hidden;
+}
+
 nav.navbar.navbar-expand-lg.navbar-light.bg-light.heading__section a.nav-link {
     color: #000;
 }
 
 nav.navbar.navbar-expand-lg.navbar-light.bg-light.heading__section li.nav-item a spam {
     color: rgba(0, 0, 0, .55);
+}
+
+.choose__zodiacsign {
+    text-align: center;
+}
+
+.choose__zodiacsign .row img {
+    width: 100%;
 }
