@@ -1,0 +1,7 @@
+nav.navbar.navbar-expand-lg.navbar-light.bg-light.heading__section a.nav-link {
+    color: #000;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light.heading__section li.nav-item a spam {
+    color: rgba(0, 0, 0, .55);
+}

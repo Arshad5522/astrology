@@ -13,5 +13,13 @@
             /* 5 */
             
             @media only screen and (min-width: 992px) and (max-width: 992px) {}
+            /* 6 */
             
-            @media only screen and (min-width: 1025px) {}
+            @media (min-width: 992px) {
+                nav.navbar.navbar-expand-lg.navbar-light.bg-light.heading__section .navbar-collapse {
+                    display: contents !important;
+                }
+                nav.navbar.navbar-expand-lg.navbar-light.bg-light.heading__section a.nav-link {
+                    width: 70%;
+                }
+            }
