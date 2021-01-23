@@ -27,3 +27,54 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light.heading__section li.nav-item a
 .choose__zodiacsign .row img {
     width: 100%;
 }
+
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.elementor-33 .elementor-element.elementor-element-e935811 .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 50%;
+}
+
+.zodiac_sign_section {
+    text-align: center
+}
+
+.zodiac_sign_section::before {
+    content: "Choose Your Zodiac Sign";
+    font-weight: bold;
+    font-size: 30px
+}
+
+.Astro_s_topic_name {
+    box-shadow: rgba(0, 0, 0, .55);
+}
+
+.zodiac_sign_section img.elementor-animation-grow-rotate.attachment-thumbnail.size-thumbnail.lazyloaded {
+    transition: 0.6s;
+}
+
+.zodiac_sign_section img.elementor-animation-grow-rotate.attachment-thumbnail.size-thumbnail.lazyloaded:hover {
+    transition: 0.6s;
+}
+
+.get_instant_horoscope_in_pdf {
+    text-transform: capitalize;
+}

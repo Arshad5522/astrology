@@ -23,3 +23,8 @@
                     width: 70%;
                 }
             }
+            /* @media (min-width: 992px) {
+                .main-navigation ul li a {
+                    width: 70%;
+                }
+            } */
